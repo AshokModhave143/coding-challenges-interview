@@ -1,0 +1,13 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 1rem;
+  color: #353c4e;
+  background: #f0f2f4;
+}
+
+#root {
+  height: 100%;
+}
